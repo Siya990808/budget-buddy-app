@@ -61,12 +61,32 @@ Logout functionality
 Splash screen on app startup
 
 
-How to Build and Run Clone the repository: git clone https://github.com/Siya990808/budget-buddy-app.git Open the project in Android Studio. Let Gradle sync the dependencies automatically. Connect an emulator or an Android device (minimum API level 24). Run the application.
+How to Build and Run Clone the repository: 
 
-Project Structure: Folder Description activities Contains activities like LoginActivity, SignUpActivity, SplashActivity, DashboardActivity, and others. data Includes Room database setup, entity models, and DAO interfaces. models Entity classes for User, Expense, Category, and BudgetGoal. ui/components Reusable Composable components like the Dashboard home screen. ui/screens Individual Composable screens for Add Expense, Add Category, View Expenses, Graphs, and Edit Expense. ui/navigation Handles the bottom navigation bar setup. ui/theme Application themes and styling configurations.
+git clone https://github.com/Siya990808/budget-buddy-app.git 
 
-Code Documentation and Comments The codebase includes: Inline comments explaining the purpose of classes, functions, and key logic. Clear variable naming conventions. Toast messages for user feedback on key actions such as saving, updating, or deleting data. Proper coroutine usage for database operations to ensure smooth UI responsiveness. Special attention was given to maintaining readability and structure throughout the project.
+Open the project in Android Studio. 
+
+Let Gradle sync the dependencies automatically. 
+
+Connect an emulator or an Android device (minimum API level 24). 
+
+Run the application.
+
+
+Project Structure: 
+
+Folder Description:
+
+activities folder contains activities like LoginActivity, SignUpActivity, SplashActivity, DashboardActivity, and others. data Includes Room database setup, entity models, and DAO interfaces. models Entity classes for User, Expense, Category, and BudgetGoal. ui/components Reusable Composable components like the Dashboard home screen. ui/screens Individual Composable screens for Add Expense, Add Category, View Expenses, Graphs, and Edit Expense. ui/navigation Handles the bottom navigation bar setup. ui/theme Application themes and styling configurations.
+
+
+Code Documentation and Comments The codebase includes: 
+
+Inline comments explaining the purpose of classes, functions, and key logic. Clear variable naming conventions. Toast messages for user feedback on key actions such as saving, updating, or deleting data. Proper coroutine usage for database operations to ensure smooth UI responsiveness. Special attention was given to maintaining readability and structure throughout the project.
+
 
 Video Demonstration A video demonstration of the application functionality will be uploaded shortly. The README will be updated to include the link once available.
+
 
 Final Notes Budget Buddy demonstrates best practices in mobile application development, including clean architecture, user-centered design, and efficient data management using Room. This application was built as part of a practical group project to reinforce the development of full Android applications using modern frameworks and technologies.
