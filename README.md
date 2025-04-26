@@ -9,9 +9,24 @@ Budget Buddy is an Android application developed using Kotlin and Jetpack Compos
 Group Members: 
 
 Siyabonga Mfusi 
+
 Andile Nzama
 
-Technologies Used: Kotlin (Programming Language) Jetpack Compose (User Interface Framework) Room Database (Local Database Management) Coroutine Scopes (Asynchronous Programming) MPAndroidChart Library (Data Visualization) Android Studio (Development Environment) GitHub (Version Control)
+Technologies Used: 
+
+Kotlin (Programming Language) 
+
+Jetpack Compose (User Interface Framework) 
+
+Room Database (Local Database Management) 
+
+Coroutine Scopes (Asynchronous Programming) 
+
+MPAndroidChart Library (Data Visualization) 
+
+Android Studio (Development Environment) 
+
+GitHub (Version Control)
 
 Features: User Authentication (Sign Up and Login) Set a global Monthly Budget Goal Create Expense Categories with: Minimum Budget Maximum Budget Record Expenses with:
 
