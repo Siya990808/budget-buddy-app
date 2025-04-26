@@ -12,6 +12,7 @@ Siyabonga Mfusi
 
 Andile Nzama
 
+
 Technologies Used: 
 
 Kotlin (Programming Language) 
@@ -28,13 +29,38 @@ Android Studio (Development Environment)
 
 GitHub (Version Control)
 
-Features: User Authentication (Sign Up and Login) Set a global Monthly Budget Goal Create Expense Categories with: Minimum Budget Maximum Budget Record Expenses with:
 
-Description
-Amount
-Date and Time
-Category Association
-Optional Photo Attachment View all recorded expenses Edit and Delete expenses View categorized total spending Filter expenses by a selected date range Generate graphs to visualize category-based expenses Logout functionality Splash screen on app startup
+Features: 
+
+User Authentication (Sign Up and Login) 
+
+Set a global Monthly Budget Goal Create Expense 
+
+Categories with: Minimum Budget Maximum Budget Record 
+
+Expenses with:
+
+- Description
+- Amount
+- Date and Time
+- Category Association
+- Optional Photo Attachment
+
+View all recorded expenses 
+
+Edit and Delete expenses 
+
+View categorized total spending 
+
+Filter expenses by a selected date range 
+
+Generate graphs to visualize category-based expenses 
+
+Logout functionality 
+
+Splash screen on app startup
+
+
 How to Build and Run Clone the repository: git clone https://github.com/Siya990808/budget-buddy-app.git Open the project in Android Studio. Let Gradle sync the dependencies automatically. Connect an emulator or an Android device (minimum API level 24). Run the application.
 
 Project Structure: Folder Description activities Contains activities like LoginActivity, SignUpActivity, SplashActivity, DashboardActivity, and others. data Includes Room database setup, entity models, and DAO interfaces. models Entity classes for User, Expense, Category, and BudgetGoal. ui/components Reusable Composable components like the Dashboard home screen. ui/screens Individual Composable screens for Add Expense, Add Category, View Expenses, Graphs, and Edit Expense. ui/navigation Handles the bottom navigation bar setup. ui/theme Application themes and styling configurations.
