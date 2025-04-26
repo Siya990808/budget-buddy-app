@@ -3,9 +3,11 @@
 Budget Buddy - Expense Tracker App
 
 Project Overview:
+
 Budget Buddy is an Android application developed using Kotlin and Jetpack Compose. The app assists users in managing their monthly budgets by allowing them to set a minimum and maximum budget for expense categories, record their expenses with details, and visualize their spending trends using graphs. This project was completed as part of a group assignment.
 
 Group Members: 
+
 Siyabonga Mfusi 
 Andile Nzama
 
